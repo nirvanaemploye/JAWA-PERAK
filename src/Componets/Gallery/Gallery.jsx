@@ -11,7 +11,7 @@ const Gallery = () => {
         <h1 className="font-semibold text-3xl pb-20 flex flex-col">
           04 GALLERY <span className="bg-red-600 h-1 w-16 mt-4"></span>
         </h1>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center justify-center gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-3 items-center justify-center gap-8">
           <div>
             <img src={img1} alt="" />
           </div>
