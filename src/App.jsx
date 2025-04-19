@@ -1,7 +1,7 @@
-import Evolution from "./Componets/EVOLUTION/Evolution";
-import Features from "./Componets/FEATURES/Features";
+import Evolution from "./Componets/Evolution/Evolution";
+import Features from "./Componets/Features/Features";
 import Footer from "./Componets/Footer/Footer";
-import Gallery from "./Componets/GALLERY/Gallery";
+import Gallery from "./Componets/Gallery/Gallery";
 import Home from "./Componets/Home/Home";
 import Navbar from "./Componets/Navbar/Navbar";
 
