@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaBars, FaXmark } from "react-icons/fa6";
-import logo from "../../assets/logo-White.png";
+import logo from "../../assets/logo-white.png";
 import HeroImg from "../../assets/header.jpg";
 
 const Navbar = () => {
